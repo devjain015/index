@@ -2,7 +2,7 @@ const categories = [
   {
     id: 1,
     name: "Plastic Containers",
-    image: "https://5.imimg.com/data5/SELLER/Default/2023/5/304705742/HE/LD/UQ/6260598/fridge-bottle-1000x1000.jpg",
+    image: "https://media-hosting.imagekit.io//6302d30bc5544b99/asus.jpg?Expires=1836298805&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cdOHYIr2uH8uFOGn8cLa2vmjRewt-wPls4uSqiTQhpe-4rcJ235Ao9mgYgYg6TnyGr7Ghn~9LTM2BULzTEIx-iyN8EjuNcn0y4xMR13Py0UisHFZ2UgJ9qV740xCQS7MDnoSSMX2lY1B9O0QM~TcWsAQYGYluZmXTUJuwtnLS7K8-P7vi9RZcp5IdcPlrtXBbwjfQHR3akfRiQ~WeiNTWsr1VoW55TbZb3ieJwoXY2cCLxLX2csTYhV8Jca1Z4qaqH5-t-2yYKYEMFoFACQwfUuZV4nMDWnOjSIoffFI-a7lrmvZq0s~VI2EKKA8mzqjAm5QTQJm21tnOPQVB8CFVQ__",
     description: "Offering you a complete choice of products which include plastic fridge bottle, lid and handles plastic baskets, plastic household container, plastic household containers, plastic 1000ml contrainer, saloni 111 container ivery and saloni 3 poece set container, plastic container set.",
   },
   {
