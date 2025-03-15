@@ -1,22 +1,4 @@
 const categories = [
-   {
-    id: 1,
-    name: "Plastic Containers",
-    image: "https://5.imimg.com/data5/SELLER/Default/2023/5/304705742/HE/LD/UQ/6260598/fridge-bottle-1000x1000.jpg",
-    description: "Offering you a complete choice of products which include plastic fridge bottle, lid and handles plastic baskets, plastic household container, plastic household containers, plastic 1000ml contrainer, saloni 111 container ivery and saloni 3 poece set container, plastic container set.",
-  },
-  {
-    id: 2,
-    name: "Plastic Soap Dish and Stand",
-    image: "https://5.imimg.com/data5/IG/HI/GM/SELLER-6260598/multi-purpose-stand-250x250.jpg",
-    description: "Offering you a complete choice of products which include plastic toothbrush holder stand, 2 compartment plastic pen holder, plastic multipurpose stand, plastic multipurpose stand, plastic soap dish, 2 capacity plastic soap dish and plastic soapdish, arrow soapdish.",
-  },
-  {
-    id: 3,
-    name: "Plastic Bowl",
-    image: "https://5.imimg.com/data5/FR/YS/KO/SELLER-6260598/tanish-bowl-plastic-bowl-designed-plastic-bowl-fruit-bowl-250x250.jpg",
-    description: "Prominent & Leading Manufacturer from Ahmedabad, we offer plastic fruit basket big, hifi plastic serving bowl, round plastic soup bowl, round plastic bowls, designer plastic fruit bowl and plastic noodey bowl.",
-  },
   {
     id: 4,
     name: "Plastic Strainer",
