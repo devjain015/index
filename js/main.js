@@ -158,7 +158,7 @@ function loadNav() {
       <div class="flex items-center space-x-8">
         <div class="shrink-0">
           <div href="#" title="" class="dark:text-white text-black font-bold text-lg">
-           <img src="https://sigmawire.net/i/03/DwdC8J.jpg" class"w-16 h-16">
+           <img src="https://sigmawire.net/i/03/DwdC8J.jpg" class="w-16 h-16">
             Bhagya Laxmi Polymer
           </div>
           <div href="#" title="" class="dark:text-white text-black text-xs">
