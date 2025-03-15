@@ -6,34 +6,10 @@ const categories = [
     description: "Our product range includes a wide range of plastic nylon tea strainer, plastic flour strainer, plastic flour strainer, plastic strainer, plastic aata chalni, plastic mesh tea strainer and plastic nylon water strainer.",
   },
   {
-    id: 5,
-    name: "Plastic Jars",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/RQ/BH/GQ/6260598/product-jpeg-250x250.jpg",
-    description: "Pioneers in the industry, we offer xolo 500 my with butterfly cap, kia 350ml jar, plastic 350ml pete jar, sky 500ml jar, plastic 500ml pete jar, plastic round container, apple 750ml jar unbreakable 750ml kichenware jar and xolo 500ml pickle pot jar, small pickle jar, plastic jar from India.",
-  },
-  {
-    id: 6,
-    name: "Plastic Plate",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/HL/PY/HV/6260598/product-jpeg-250x250.jpg",
-    description: "Pioneers in the industry, we offer unbreakable plastic  plate set, plastic chapati plate, bhakhari plate, maggie unbreakable pet plate, plastic unbreakable pete material plate, plastic 3 compartment plate, plastic plates, china plates, oval plastic plate and plastic snacks plate from India.",
-  },
-  {
-    id: 7,
-    name: "Plastic Glass",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/QI/AZ/RH/6260598/product-jpeg-500x500.jpg",
-    description: "We are a leading Manufacturer of plastic square glass, plastic glass, misty crystal plastic glass, plastic unbreakable glass, transparent plastic drinking glass, plastic glass unbreakable, misty glass unbreakable natural, pete glass. plastic unbreakable glass and plastic glass with lid from Ahmedabad, India.",
-  },
-  {
     id: 8,
     name: "Plastic Cup",
     image: "https://5.imimg.com/data5/JB/KW/YD/SELLER-6260598/plastic-coke-glass-500x500.jpg",
     description: "Our range of products include plastic cup with leed, plastic cup with leed., plastic tea cup, plastic cup and plastic cup with star design.",
-  },
-  {
-    id: 9,
-    name: "Plastic Lunch Box",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/VU/HT/JQ/6260598/product-jpeg-250x250.jpg",
-    description: "Leading Manufacturer of oreo lunchbox big (plastic lunchbox), plsatic big size lunchbox and plastic lunch box from Ahmedabad.",
   },
   {
     id: 10,
@@ -42,22 +18,10 @@ const categories = [
     description: "Manufacturer of a wide range of products which include polypropylene bathing mug, plastic bathroom mug and 350 ml plastic bath mug.",
   },
   {
-    id: 11,
-    name: "Kitchen Wiper",
-    image: "https://5.imimg.com/data5/GR/ED/OS/SELLER-6260598/mini-kitchen-wiper-kitchen-cleaner-first-250x250.jpg",
-    description: "Our range of products include mini kitchen wiper and plastic kitchen wiper.",
-  },
-  {
     id: 12,
     name: "Plastic Masala Box",
     image: "https://5.imimg.com/data5/NB/SD/YV/SELLER-6260598/elite-masala-box-spice-box-plastic-spice-box-household-container-250x250.jpg",
     description: "Our range of products include elite masala box and plastic masala square box.",
-  },
-  {
-    id: 13,
-    name: "Jug Set",
-    image: "https://5.imimg.com/data5/SELLER/Default/2021/2/BU/RM/HE/6260598/misty-jug-set-with-glass-set-plastic-water-jug-250x250.jpeg",
-    description: "Our product range includes a wide range of misty jug set with glass set, plastic water jug and line jug set with 6 glasses, mug with 6 glass.",
   },
   {
     id: 14,
@@ -66,94 +30,16 @@ const categories = [
     description: "Leading Manufacturer of design plastic container, plastic jar 600ml and plastic 500ml jar from Ahmedabad.",
   },
   {
-    id: 15,
-    name: "Plastic Ice Tray",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/YH/KT/SB/6260598/product-jpeg-250x250.jpg",
-    description: "Prominent & Leading Manufacturer from Ahmedabad, we offer plastic ice tray, and plastic ice tray.",
-  },
-  {
     id: 16,
     name: "Plastic Dust Pan",
     image: "https://5.imimg.com/data5/SELLER/Default/2021/2/QD/BW/PP/6260598/big-plastic-dustpan-dustpan-with-stripe-250x250.jpeg",
     description: "Manufacturer of a wide range of products which include big plastic dustpan, dustpan with stripe and plastic dust pan.",
   },
   {
-    id: 17,
-    name: "Plastic Bottle",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2025/1/483686765/EH/LP/ZR/6260598/product-jpeg-250x250.jpg",
-    description: "Our range of products include plastic waterbottles 600 ml, 600ml plastic bottle, rolex bottle.",
-  },
-  {
-    id: 18,
-    name: "Water Bottle",
-    image: "https://5.imimg.com/data5/SELLER/Default/2023/5/304686587/DT/AQ/XK/6260598/water-bottle-250x250.jpg",
-    description: "Our product range includes a wide range of plastic water bottle.",
-  },
-  {
-    id: 19,
-    name: "Soap Dish",
-    image: "https://5.imimg.com/data5/SELLER/Default/2023/5/304689852/XE/JM/HD/6260598/soap-dishes-250x250.jpg",
-    description: "Leading Manufacturer of plastic soap dish from Ahmedabad.",
-  },
-  {
     id: 20,
     name: "Mugs",
     image: "https://5.imimg.com/data5/SELLER/Default/2023/5/304708765/SI/IY/NN/6260598/mugs-250x250.jpg",
     description: "Providing you the best range of multicolor plastic mugs with effective & timely delivery.",
-  },
-  {
-    id: 21,
-    name: "Plastic Scratcher Stick",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/DR/QD/DK/6260598/product-jpeg-250x250.jpg",
-    description: "Prominent & Leading Manufacturer from Ahmedabad, we offer plastic khujali stick.",
-  },
-  {
-    id: 22,
-    name: "Plastic Dish",
-    image: "https://5.imimg.com/data5/SELLER/Default/2021/8/UH/ID/XD/6260598/plastic-dish-250x250.jpeg",
-    description: "Our product range includes a wide range of plastic pet material dish (fancy plate).",
-  },
-  {
-    id: 23,
-    name: "Flour Strainer",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/YR/PD/TD/6260598/product-jpeg-250x250.jpg",
-    description: "Manufacturer of a wide range of products which include plastic unbreakable flour strainer, plastic strainers.",
-  },
-  {
-    id: 24,
-    name: "Plastic Water Strainers",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/CV/RR/SS/6260598/product-jpeg-250x250.jpg",
-    description: "Manufacturer of a wide range of products which include plastic water filter, water strainer in plastic material.",
-  },
-  {
-    id: 25,
-    name: "Sauce Bottle",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/JG/VR/NB/6260598/product-jpeg-250x250.jpg",
-    description: "We are a leading Manufacturer of plastic sauce bottle from Ahmedabad, India.",
-  },
-  {
-    id: 26,
-    name: "Plastic Salt Paper",
-    image: "https://5.imimg.com/data5/GLADMIN/Default/2021/2/KX/PO/KQ/6260598/polystyrene-salt-pepper-haldiram-salt-paper-250x250.jpg",
-    description: "Our range of products include polystyrene salt pepper, haldiram salt paper.",
-  },
-  {
-    id: 27,
-    name: "Plastic Pen Holder",
-    image: "https://5.imimg.com/data5/FO/EE/NP/SELLER-6260598/plastic-multipurpose-stand-antique-stand-250x250.jpg",
-    description: "Manufacturer of a wide range of products which include antique design plastic pen holder.",
-  },
-  {
-    id: 28,
-    name: "Plastic Baby Sipper Bottle",
-    image: "https://5.imimg.com/data5/XT/TT/YQ/SELLER-6260598/plastic-baby-sipper-bottle-250x250.jpg",
-    description: "Offering you a complete choice of products which include plastic baby sipper bottle.",
-  },
-  {
-    id: 29,
-    name: "Plastic Serving Spoon",
-    image: "https://4.imimg.com/data4/EW/HE/MY-6260598/plastic-serving-spoon-250x250.jpg",
-    description: "We are a leading Manufacturer of plastic serving spoon from Ahmedabad, India.",
   },
   {
     id: 30,
@@ -167,19 +53,6 @@ const categories = [
     image: "https://5.imimg.com/data5/SELLER/Default/2023/4/300790959/JM/XM/OZ/6260598/plastic-basket-with-lid-500x500.jpg",
     description: "Our range of products include plastic basket with lid, plastic fruit basket, star basket big sized, plastic big basket, plastic fruit basket, fruit and vegetable basket, leaf basket small, plastic vegetables basket and plastic vegetable fruit basket.",
   },
-  {
-    id: 32,
-    name: "Plastic Bowls",
-    image: "https://5.imimg.com/data5/SELLER/Default/2023/4/300794286/BE/ID/AL/6260598/plastic-soup-bowl-500x500.jpg",
-    description: "Pioneers in the industry, we offer plastic soup bowl, bingo bowl colour unbreakable, plastic pete bowl and plastic unbreakable glass, diamond designed glass from India.",
-  },
-  {
-    id: 33,
-    name: "Plastic Fridge Bottle",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2022/3/IH/RH/ON/6260598/product-jpeg-500x500.jpg",
-    description: "Pioneers in the industry, we offer plastic fridge water bottle and plastic fridge bottle from India.",
-  },
-
   
 ]
 
