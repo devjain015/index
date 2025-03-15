@@ -1,8 +1,8 @@
 const categories = [
-  {
+   {
     id: 1,
     name: "Plastic Containers",
-    image: "https://sigmawire.net/i/03/Lkrb54.jpg",
+    image: "https://5.imimg.com/data5/SELLER/Default/2023/5/304705742/HE/LD/UQ/6260598/fridge-bottle-1000x1000.jpg",
     description: "Offering you a complete choice of products which include plastic fridge bottle, lid and handles plastic baskets, plastic household container, plastic household containers, plastic 1000ml contrainer, saloni 111 container ivery and saloni 3 poece set container, plastic container set.",
   },
   {
