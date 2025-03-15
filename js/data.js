@@ -2,7 +2,7 @@ const categories = [
   {
     id: 1,
     name: "Plastic Containers",
-    image: "https://media-hosting.imagekit.io//6302d30bc5544b99/asus.jpg?Expires=1836298805&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cdOHYIr2uH8uFOGn8cLa2vmjRewt-wPls4uSqiTQhpe-4rcJ235Ao9mgYgYg6TnyGr7Ghn~9LTM2BULzTEIx-iyN8EjuNcn0y4xMR13Py0UisHFZ2UgJ9qV740xCQS7MDnoSSMX2lY1B9O0QM~TcWsAQYGYluZmXTUJuwtnLS7K8-P7vi9RZcp5IdcPlrtXBbwjfQHR3akfRiQ~WeiNTWsr1VoW55TbZb3ieJwoXY2cCLxLX2csTYhV8Jca1Z4qaqH5-t-2yYKYEMFoFACQwfUuZV4nMDWnOjSIoffFI-a7lrmvZq0s~VI2EKKA8mzqjAm5QTQJm21tnOPQVB8CFVQ__",
+    image: "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22screenshot_1742035077242.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-03-14T10%3A38%3A01.233Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F19939c94aaf94fdd%2Fscreenshot_1742035077242.png%3FExpires%3D1836643081%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DfXubp~GPgPO~QwMTHja6bcIKqcOdQ7aLQjoJclQrv0j3325s1NjZ882ToacIk8bczZuyQU6JlPtK0GNA4x7ma00ruFf1fmH-P68ujoK4vQFMV7BKzwLNVkt3BKfDH3LGI1d1pQ1Jyx25-fh5RtMXY~A-3-oHjlqlRC~Fqth6hcRouQBxedQ9HR3ruUUvsR09lgso~fN8DHQQwUxkgPf9gBmvWSLsdcF5A3-jrL65TA-mZUOJXPdhHxR3dI2bQDYUxvKLhKlXbf6A1o6OAmBILitKHkB1JaBi7yqfgY1tL3U4Q8rDi6vUNtskrKyrgIYMwxJa~JmF96ilhnKL~phhsQ__%22%7D",
     description: "Offering you a complete choice of products which include plastic fridge bottle, lid and handles plastic baskets, plastic household container, plastic household containers, plastic 1000ml contrainer, saloni 111 container ivery and saloni 3 poece set container, plastic container set.",
   },
   {
