@@ -8,13 +8,13 @@ const categories = [
   {
     id: 8,
     name: "Plastic Coffee Mug",
-    image: "https://5.imimg.com/data5/JB/KW/YD/SELLER-6260598/plastic-coke-glass-500x500.jpg",
+    image: "https://sigmawire.net/i/03/mZTzM6.jpg",
     description: "Our range of products include plastic cup with leed, plastic cup with leed., plastic tea cup, plastic cup and plastic cup with star design.",
   },
   {
     id: 10,
     name: "Plastic Bath Mug",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2020/11/EI/SD/ZX/6260598/product-jpeg-250x250.jpg",
+    image: "https://sigmawire.net/i/03/ebnwTt.jpg",
     description: "Manufacturer of a wide range of products which include polypropylene bathing mug, plastic bathroom mug and 350 ml plastic bath mug.",
   },
   {
