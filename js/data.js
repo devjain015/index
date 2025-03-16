@@ -8,7 +8,7 @@ const categories = [
   {
     id: 8,
     name: "Plastic Coffee Mug",
-    image: "https://5.imimg.com/data5/JB/KW/YD/SELLER-6260598/plastic-coke-glass-500x500.jpg","https://sigmawire.net/i/03/cnTVf6.jpg",
+    image: "https://5.imimg.com/data5/JB/KW/YD/SELLER-6260598/plastic-coke-glass-500x500.jpg",
     description: "Our range of products include plastic cup with leed, plastic cup with leed., plastic tea cup, plastic cup and plastic cup with star design.",
   },
   {
