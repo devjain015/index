@@ -1,8 +1,8 @@
 const categories = [
   {
     id: 4,
-    name: "Plastic Strainer",
-    image: "https://5.imimg.com/data5/SELLER/Default/2023/12/369527005/GW/IG/FG/6260598/plastic-nylon-tea-strainer-250x250.jpeg",
+    name: "Vegetable Strainer",
+    image: "https://sigmawire.net/i/03/cnTVf6.jpg",
     description: "Our product range includes a wide range of plastic nylon tea strainer, plastic flour strainer, plastic flour strainer, plastic strainer, plastic aata chalni, plastic mesh tea strainer and plastic nylon water strainer.",
   },
   {
