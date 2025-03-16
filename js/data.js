@@ -20,7 +20,7 @@ const categories = [
   {
     id: 12,
     name: "Plastic Masala Box",
-    image: "https://5.imimg.com/data5/NB/SD/YV/SELLER-6260598/elite-masala-box-spice-box-plastic-spice-box-household-container-250x250.jpg",
+    image: "https://sigmawire.net/i/03/8fpA4t.jpg",
     description: "Our range of products include elite masala box and plastic masala square box.",
   },
   {
@@ -2369,7 +2369,35 @@ const products = [
     "material": "Plastic",
     "description": "",
     "images": [
-      "https://sigmawire.net/i/03/ZC4Wvc.jpg"
+      "https://sigmawire.net/i/03/qJ0xBp.jpg"
+    ],
+    "brandAddress": "Add Address",
+    "additionalInfo": "Add Additional Info",
+    "price": "9408869180",
+    "color": "Green, Red",
+    "weight": "80 gm",
+    "top_diameter": "4 inch",
+    "bottom_diameter": "3 inch max",
+    "country_of_origin": "Made in India"
+  },
+  {
+    "id": 274,
+    "categoryId": 10,
+    "name": "Enova Mug",
+    "brand": "Bhagya Laxmi Polymer",
+    "minOrderQuantity": "N/A",
+    "usage": "Bathroom",
+    "shape": "N/A",
+    "size": "N/A",
+    "capacity": "350 ml",
+    "productCode": "N/A",
+    "thickness": "8 mm",
+    "type": "N/A",
+    "materialGrade": "N/A",
+    "material": "Plastic",
+    "description": "",
+    "images": [
+      "https://sigmawire.net/i/03/5NSjh0.jpg"
     ],
     "brandAddress": "Add Address",
     "additionalInfo": "Add Additional Info",
@@ -2436,7 +2464,7 @@ const products = [
   {
     "id": 202,
     "categoryId": 12,
-    "name": "Elite Masala Box",
+    "name": "Saffron Masala Box",
     "brand": "Bhagya Laxmi Polymer",
     "minOrderQuantity": "N/A",
     "usage": "Home, Hotel, Etc",
@@ -2450,7 +2478,7 @@ const products = [
     "material": "Plastic",
     "description": "",
     "images": [
-      "https://5.imimg.com/data5/NB/SD/YV/SELLER-6260598/elite-masala-box-spice-box-plastic-spice-box-household-container-500x500.jpg"
+      "https://sigmawire.net/i/03/8fpA4t.jpg"
     ],
     "brandAddress": "Add Address",
     "additionalInfo": "Add Additional Info",
@@ -2462,7 +2490,7 @@ const products = [
   {
     "id": 203,
     "categoryId": 12,
-    "name": "Plastic Masala Square Box",
+    "name": "Everest Masala",
     "brand": "Bhagya Laxmi Polymer",
     "minOrderQuantity": "N/A",
     "usage": "Spice Storage",
