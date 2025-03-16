@@ -2275,7 +2275,7 @@ const products = [
   {
     "id": 197,
     "categoryId": 10,
-    "name": "Polypropylene Bathing Mug",
+    "name": "Ocean Mug 1800",
     "brand": "Bhagya Laxmi Polymer",
     "minOrderQuantity": "N/A",
     "usage": "Bathroom",
@@ -2289,7 +2289,7 @@ const products = [
     "material": "PP",
     "description": "",
     "images": [
-      "https://5.imimg.com/data5/ANDROID/Default/2020/11/EI/SD/ZX/6260598/product-jpeg-500x500.jpg"
+      "https://sigmawire.net/i/03/ebnwTt.jpg"
     ],
     "brandAddress": "Add Address",
     "additionalInfo": "Add Additional Info",
@@ -2301,7 +2301,7 @@ const products = [
   {
     "id": 198,
     "categoryId": 10,
-    "name": "Plastic Bathroom Mug",
+    "name": "Kia Mug",
     "brand": "Bhagya Laxmi Polymer",
     "minOrderQuantity": "N/A",
     "usage": "Bathroom",
@@ -2315,7 +2315,7 @@ const products = [
     "material": "Plastic",
     "description": "",
     "images": [
-      "https://5.imimg.com/data5/SELLER/Default/2023/12/368899449/DM/YO/NB/6260598/polypropylene-bathing-mug-500x500.jpeg"
+      "https://sigmawire.net/i/03/SFazpU.jpg"
     ],
     "brandAddress": "Add Address",
     "additionalInfo": "Add Additional Info",
@@ -2327,7 +2327,7 @@ const products = [
   {
     "id": 199,
     "categoryId": 10,
-    "name": "350 Ml Plastic Bath Mug",
+    "name": "Kia Mug Foil",
     "brand": "Bhagya Laxmi Polymer",
     "minOrderQuantity": "N/A",
     "usage": "Bathroom",
@@ -2341,7 +2341,35 @@ const products = [
     "material": "Plastic",
     "description": "",
     "images": [
-      "https://5.imimg.com/data5/QF/TW/MY-6260598/plastic-mug-500x500.jpg"
+      "https://sigmawire.net/i/03/ZC4Wvc.jpg"
+    ],
+    "brandAddress": "Add Address",
+    "additionalInfo": "Add Additional Info",
+    "price": "9408869180",
+    "color": "Green, Red",
+    "weight": "80 gm",
+    "top_diameter": "4 inch",
+    "bottom_diameter": "3 inch max",
+    "country_of_origin": "Made in India"
+  },
+    {
+    "id": 273,
+    "categoryId": 10,
+    "name": "1000 Kia",
+    "brand": "Bhagya Laxmi Polymer",
+    "minOrderQuantity": "N/A",
+    "usage": "Bathroom",
+    "shape": "N/A",
+    "size": "N/A",
+    "capacity": "350 ml",
+    "productCode": "N/A",
+    "thickness": "8 mm",
+    "type": "N/A",
+    "materialGrade": "N/A",
+    "material": "Plastic",
+    "description": "",
+    "images": [
+      "https://sigmawire.net/i/03/ZC4Wvc.jpg"
     ],
     "brandAddress": "Add Address",
     "additionalInfo": "Add Additional Info",
