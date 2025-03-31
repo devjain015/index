@@ -1,62 +1,31 @@
-/**
- * Set cache name
- * Note: At the moment it is not active but we need this for the future and the service worker
- * must have `fetch` method in order to activate progressive web app
- */
-var CACHE_NAME = self.domain;
-var urlsToCache = [
-    '/'
-];
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="5;url=http://67e5918478b9b.site123.me">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20%;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <p>Follow this link to visit our website:</p>
+    <a href="http://67e5918478b9b.site123.me/">Click here</a>
 
-/**
- * On service worker install tell him what urls we want to cache
- * Documentation: https://developers.google.com/web/ilt/pwa/caching-files-with-service-worker
- */
-self.addEventListener('install', function(event) {
-    // perform install steps
-    event.waitUntil(
-        caches.open(CACHE_NAME)
-        .then(function(cache) {
-            return cache.addAll(urlsToCache);
-        })
-    );
-});
-
-/**
- * Fetch request from cache
- * Documentation: https://developers.google.com/web/ilt/pwa/caching-files-with-service-worker
- */
-self.addEventListener('fetch', function(event) {
-    /* neutralize the service worker cache because we want to keep the website using
-    our system cache */
-    return false;
-    event.respondWith(
-        caches.match(event.request).then(function(response) {
-            // cache hit - return response
-            if (response) {
-                return response;
-            }
-            //
-            return fetch(event.request).then(
-                function(response) {
-                    // Check if we received a valid response
-                    if (!response || response.status !== 200 || response.type !== 'basic') {
-                        return response;
-                    }
-                    // IMPORTANT: Clone the response. A response is a stream
-                    // and because we want the browser to consume the response
-                    // as well as the cache consuming the response, we need
-                    // to clone it so we have two streams.
-                    var responseToCache = response.clone();
-                    //
-                    caches.open(CACHE_NAME)
-                        .then(function(cache) {
-                            cache.put(event.request, responseToCache);
-                        });
-                    //
-                    return response;
-                }
-            );
-        })
-    );
-});
+    <script>
+        setTimeout(() => {
+            window.location.href = "http://67e5918478b9b.site123.me/";
+        }, 10000);
+    </script>
+</body>
+</html>
